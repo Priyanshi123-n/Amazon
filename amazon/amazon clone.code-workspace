@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../AMAZON"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "starter"
+	}
+}
